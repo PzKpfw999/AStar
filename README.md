@@ -1,14 +1,14 @@
 # AStar
 Priority queue and A* algorithm C# implement / For UnityEngine
 
-Unity does not support the newest C# Priority Queue
+This script includes 
 
-This scipt includs a implement of Priority Queue (base on Binary Min-Heap)
+1. An implementation of Priority Queue (based on Binary Min-Heap)
 
-Some Topology Class
+2. Two topology classes describe the map topology and contain the heuristic function required by the A* algorithm.
 
-RectMapTopology8 is use for 8 direction move
+RectMapTopology8 is used for 8 direction move
 
-RectMapTopology4 is use for 4 direction move
+RectMapTopology4 is used for 4 direction move
 
-And an A* algorithm
+3. An A* algorithm
