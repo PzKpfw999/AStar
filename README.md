@@ -1,5 +1,5 @@
 # AStar
-Priority queue and A* algorithm C# implement / For Unity Game
+Priority queue and A* algorithm C# implement / For UnityEngine
 
 Unity does not support the newest C# Priority Queue
 
